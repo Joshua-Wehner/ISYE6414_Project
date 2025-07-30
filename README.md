@@ -25,6 +25,7 @@ Three primary sources of data were utilized and merged
 │   └── merged_scorecard_shef_and_ipeds.csv
 ├── Logistic_Regression.ipynb
 ├── README.md
+├── requirements.txt
 ```
 
 ## Installation
